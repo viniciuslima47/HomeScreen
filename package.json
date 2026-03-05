@@ -18,7 +18,11 @@
     "expo-status-bar": "~3.0.9",
     "react": "19.1.0",
     "react-dom": "19.1.0",
+<<<<<<< HEAD
     "react-native": "0.81.5",
+=======
+    "react-native": "^0.81.5",
+>>>>>>> 8ddb6aa7a3c7121714a612670d298866d37d3797
     "react-native-elements": "^3.4.3",
     "react-native-safe-area-context": "~5.6.0",
     "react-native-screens": "~4.16.0",
